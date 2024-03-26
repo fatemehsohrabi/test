@@ -1,9 +1,9 @@
 main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
-  - title: "About"
-    url: /about/
+  - title: "پست"
+    url: /پست/
+  - title: "درباره ما"
+    url: /درباره ما/
+  - title: "تگ ها"
+    url: /تگ ها/
+  - title: "ارتباط با ما"
+    url: /ارتباط با ما/
